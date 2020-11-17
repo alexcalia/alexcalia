@@ -11,8 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://twitter.com/alexandercalia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alexandercalia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alexander-calia-33190337" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alexander-calia-33190337" height="30" width="40" /></a>
+<a href="https://twitter.com/alexandercalia">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/alexander-calia-33190337">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 ![](https://visitor-badge.glitch.me/badge?page_id=alexcalia.alexcalia)
 
 
