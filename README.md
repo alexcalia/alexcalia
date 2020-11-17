@@ -5,7 +5,7 @@
 
 - 👨‍💻 Check out my portfolio at [https://alexcalia.com](https://alexcalia.com)
 
-- 📄 My resume can be found  [https://alexcalia.com/assets/Alex-Calia-Resume.pdf](here)
+- 📄 My resume can be found [here](https://alexcalia.com/assets/Alex-Calia-Resume.pdf)
 
 - ⚡ Fun fact **I'm an avid PC enthusiast and gamer. I mostly play FPS and MMORPG games.**
 
