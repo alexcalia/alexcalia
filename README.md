@@ -2,14 +2,13 @@
 <h3 align="center">A Front-End Web Developer passionate about creating interactive applications and experiences on the web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexcalia&label=Profile%20views&color=0e75b6&style=flat" alt="alexcalia" /> </p>
+<img align="right" width="300" src="https://64.media.tumblr.com/7e71f3316e44417e20e10ea3620c6a76/tumblr_my8dm6J64M1ro8ysbo1_500.gifv">
 
 - 👨‍💻 Check out my portfolio at [https://alexcalia.com](https://alexcalia.com).
 
 - 📄 My resume can be found [here](https://alexcalia.com/assets/Alex-Calia-Resume.pdf).
 
 - ⚡ Quick fact: I'm an avid PC enthusiast and gamer. I mostly play FPS and MMORPG games.
-
-<img align="right" width="300" src="https://64.media.tumblr.com/7e71f3316e44417e20e10ea3620c6a76/tumblr_my8dm6J64M1ro8ysbo1_500.gifv">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
