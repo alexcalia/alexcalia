@@ -17,6 +17,7 @@
 <a href="https://linkedin.com/in/alexander-calia-33190337">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=alexcalia.alexcalia)
 
 
