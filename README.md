@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexcalia&show_icons=true&locale=en&layout=compact" alt="alexcalia" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alexcalia&show_icons=true&locale=en" alt="alexcalia" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alexcalia&show_icons=true&locale=en&theme=prussian" alt="alexcalia" /></p>
