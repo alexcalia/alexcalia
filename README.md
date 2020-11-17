@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex!</h1>
-<h3 align="center">A Front-End Web Developer passionate about creating interactive applications and experiences on the web.</h3>
+<h1 align="left">Hi 👋, I'm Alex!</h1>
+<h3 align="left">A Front-End Web Developer passionate about creating interactive applications and experiences on the web.</h3>
 <p>I enjoy the challenge of creating complex applications and experiences that are interactive, informative and accessible, and I am always learning and improving my skills on the latest web technologies.</p>
 <img align="right" width="300" src="https://64.media.tumblr.com/7e71f3316e44417e20e10ea3620c6a76/tumblr_my8dm6J64M1ro8ysbo1_500.gifv">
 
