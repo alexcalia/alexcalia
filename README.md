@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/alexandercalia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alexandercalia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexander-calia-33190337" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alexander-calia-33190337" height="30" width="40" /></a>
- <p> <img src="https://komarev.com/ghpvc/?username=alexcalia&label=Profile%20views&color=0e75b6&style=flat" alt="alexcalia" /> </p>
+ <p display="inline-block"> <img src="https://komarev.com/ghpvc/?username=alexcalia&label=Profile%20views&color=0e75b6&style=flat" alt="alexcalia" /> </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
