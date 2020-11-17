@@ -2,7 +2,6 @@
 <h3 align="center">A Front-End Web Developer passionate about creating interactive applications and experiences on the web.</h3>
 <p>I enjoy the challenge of creating complex applications and experiences that are interactive, informative and accessible, and I am always learning and improving my skills on the latest web technologies.</p>
 <img align="right" width="300" src="https://64.media.tumblr.com/7e71f3316e44417e20e10ea3620c6a76/tumblr_my8dm6J64M1ro8ysbo1_500.gifv">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexcalia&label=Profile%20views&color=0e75b6&style=flat" alt="alexcalia" /> </p>
 
 - 👨‍💻 Check out my portfolio at [https://alexcalia.com](https://alexcalia.com).
 
@@ -14,6 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/alexandercalia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alexandercalia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexander-calia-33190337" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alexander-calia-33190337" height="30" width="40" /></a>
+ <p> <img src="https://komarev.com/ghpvc/?username=alexcalia&label=Profile%20views&color=0e75b6&style=flat" alt="alexcalia" /> </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
