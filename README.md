@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexcalia&label=Profile%20views&color=0e75b6&style=flat" alt="alexcalia" /> </p>
 
-- 👨‍💻 Check out my portfolio at [https://alexcalia.com](https://alexcalia.com)
+- 👨‍💻 Check out my portfolio at [https://alexcalia.com](https://alexcalia.com).
 
-- 📄 My resume can be found [here](https://alexcalia.com/assets/Alex-Calia-Resume.pdf)
+- 📄 My resume can be found [here](https://alexcalia.com/assets/Alex-Calia-Resume.pdf).
 
-- ⚡ Fun fact **I'm an avid PC enthusiast and gamer. I mostly play FPS and MMORPG games.**
+- ⚡ Quick fact: I'm an avid PC enthusiast and gamer. I mostly play FPS and MMORPG games.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
