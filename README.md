@@ -7,7 +7,7 @@
 
 - 🌱 Currently expanding my skills in JavaScript and React, and dabbling in back-end (Node, Mongo).
 
-- 👨‍💻 Currently working on hackathons and any projects that pique my interest 
+- 👨‍💻 Currently working on hackathons and any projects that pique my interest.
 
 - 📄 My resume can be found [here](https://alexcalia.com/assets/Alex-Calia-Resume.pdf).
 
