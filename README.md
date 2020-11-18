@@ -3,7 +3,11 @@
 <p>I enjoy the challenge of creating complex applications and experiences that are interactive, informative and accessible, and I am always learning and improving my skills on the latest web technologies.</p>
 <img align="right" width="300" src="https://64.media.tumblr.com/7e71f3316e44417e20e10ea3620c6a76/tumblr_my8dm6J64M1ro8ysbo1_500.gifv">
 
-- 👨‍💻 Check out my portfolio at [https://alexcalia.com](https://alexcalia.com).
+- 👨 Check out my portfolio at [https://alexcalia.com](https://alexcalia.com).
+
+- 🌱 Currently expanding my skills in JavaScript and React, and dabbling in back-end (Node, Mongo).
+
+- 👨‍💻 Currently working on hackathons and any projects that pique my interest 
 
 - 📄 My resume can be found [here](https://alexcalia.com/assets/Alex-Calia-Resume.pdf).
 
