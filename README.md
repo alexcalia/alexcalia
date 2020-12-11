@@ -7,9 +7,9 @@
 
 - 🌱 Currently expanding my skills in JavaScript and React, and dabbling in back-end (Node, Mongo).
 
-- 📝 In the process of writing and posting some blog articles on the hackathon projects I've completed.
+- 📝 Started a full-stack group project with some colleagues from Juno College!
 
-- 👨‍💻 Currently working on hackathons and any projects that pique my interest.
+- 👨‍💻 Currently working on a full stack course and any projects that pique my interest.
 
 - 📄 My resume can be found [here](https://alexcalia.com/assets/Alex-Calia-Resume.pdf).
 
