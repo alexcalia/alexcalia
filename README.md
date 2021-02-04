@@ -5,11 +5,11 @@
 
 - 👨 Check out my portfolio at [https://alexcalia.com](https://alexcalia.com).
 
-- 🌱 Currently expanding my skills in JavaScript and React, and dabbling in back-end (Node, Mongo).
+- 🌱 Currently expanding my skills in JavaScript and React, and dabbling in back-end (Node, Express Mongo), React Native and Python.
 
-- 📝 Started a full-stack group project with some colleagues from Juno College!
+- 📝 Started an e-commerce React Native project, still in early development.
 
-- 👨‍💻 Currently working on a full stack course and any projects that pique my interest.
+- 👨‍💻 Currently working on a REST API using Node, Express and MongoDB. Deploying in the coming weeks!
 
 - 📄 My resume can be found [here](https://alexcalia.com/assets/Alex-Calia-Resume.pdf).
 
