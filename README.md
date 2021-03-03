@@ -7,9 +7,9 @@
 
 - 🌱 Currently expanding my skills in JavaScript and React, and dabbling in back-end (Node, Express Mongo), React Native and Python.
 
-- 📝 Started an e-commerce React Native project, still in early development.
+- 📝 Delving into JAMStack and working on a couple projects involving it.
 
-- 👨‍💻 Currently working on a REST API using Node, Express and MongoDB. Deploying in the coming weeks!
+- 👨‍💻 Currently working on a website with a cross-functional team for a mutual-aid initiative in Toronto!
 
 - 📄 My resume can be found [here](https://alexcalia.com/assets/Alex-Calia-Resume.pdf).
 
