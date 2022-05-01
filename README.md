@@ -3,15 +3,7 @@
 <p>I enjoy the challenge of creating complex applications and experiences that are interactive, informative and accessible, and I am always learning and improving my skills on the latest web technologies.</p>
 <img align="right" width="300" src="https://64.media.tumblr.com/7e71f3316e44417e20e10ea3620c6a76/tumblr_my8dm6J64M1ro8ysbo1_500.gifv">
 
-- 👨 Check out my portfolio at [https://alexcalia.com](https://alexcalia.com).
-
-- 🌱 Currently expanding my skills in JavaScript and React, and dabbling in back-end (Node, Express Mongo), React Native and Python.
-
-- 📝 Delving into JAMStack and working on a couple projects involving it.
-
-- 👨‍💻 Currently working on a website with a cross-functional team for a mutual-aid initiative in Toronto!
-
-- 📄 My resume can be found [here](https://alexcalia.com/assets/Alex-Calia-Resume.pdf).
+- 🌱 Currently expanding my skills in JavaScript, Typescript and React, and dabbling in back-end (Node, Express, MongoDB).
 
 - ⚡ Quick fact: I'm an avid PC enthusiast and gamer. I mostly play FPS and MMORPG games.
 
